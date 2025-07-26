@@ -13,9 +13,9 @@ This repository contains the Python and R scripts used to process and analyze da
 To ensure full reproducibility of the results, the R scripts should be run in the following order:
 
 1. SPI_spatial_drought.R
-   Calculates the SPI (1-12 temporal scales) at month timescale and generates spatial drought index over each island of Greater Antilles.
+   Calculates the SPI (1-24 temporal scales) at month timescale and generates spatial drought index over each island of Greater Antilles.
 2. SPI_temporal_drought.R
-   Computes the SPI (1-12 temporal scales) using averaged precipitation over each island of Greater Antilles.
+   Computes the SPI (1-24 temporal scales) using averaged precipitation over each island of Greater Antilles.
 3. Moisture_contribution.R
    Spatially averages the (E–P) field over each island of Greater Antilles, generating the time series of moisture contribution used in the drought attribution analysis.
 
