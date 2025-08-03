@@ -1,8 +1,8 @@
-# Multimetric Drought Dataset for the Greater Antilles
+# Multiscale Drought Dataset for the Greater Antilles
 
 This repository contains the Python and R scripts used to process and analyze data for the study:
 
-**"Multimetric Drought Dataset for the Greater Antilles: A Resource for Environmental and Adaptation Studies"**
+**"Multiscale Drought Dataset for the Greater Antilles: A Resource for Environmental and Adaptation Studies"**
 
 ## Contents
 - SPI, DPI, OSI, DER, and ROR calculation scripts
